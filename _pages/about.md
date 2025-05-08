@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master’s student at [Shen Yuan Honors College](https://hc.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).My research interest includes LLM hallucination,Large Vision Language Model(LVLM).
+I'm a master’s student at [Shen Yuan Honors College](https://hc.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/).My research interest includes LLM Hallucination,Large Vision Language Model(LVLM).
 
 I'm very fortunate to be advised by [Prof. Lei Sha](https://shalei120.github.io/),[Beihang University](https://www.buaa.edu.cn/).
 
