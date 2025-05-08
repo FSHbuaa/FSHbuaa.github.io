@@ -12,4 +12,4 @@ I'm a master’s student at [Shen Yuan Honors College](https://hc.buaa.edu.cn/),
 
 I'm very fortunate to be advised by [Prof. Lei Sha](https://shalei120.github.io/),[Beihang University](https://www.buaa.edu.cn/).
 
-[Email](mailto:20377383@buaa.edu.cn)
+Here is my [Email](mailto:20377383@buaa.edu.cn).
